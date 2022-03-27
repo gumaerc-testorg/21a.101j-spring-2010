@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9cf20f4f-8a75-52a1-e0cb-2c5c71c264ea
 resourcetype: Document
 title: MIT21A_218JS10_comments.pdf
 uid: f75dd808-1341-666d-4f4e-84d4a93f7c05
