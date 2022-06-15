@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides the bibliography of course texts and the schedule
+  of required and optional readings by week.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 86a661e8-b006-0aa2-9f15-916f551764ee
 ---
 
-The readings assigned for each class session are listed below. Questions for each session's readings are available on the [Study Materials]({{< baseurl >}}/pages/study-materials) page.
+The readings assigned for each class session are listed below. Questions for each session's readings are available on the {{% resource_link 06dd9873-e909-1b24-fdfc-bc41e3a95680 "Study Materials" %}} page.
 
 Books
 -----
