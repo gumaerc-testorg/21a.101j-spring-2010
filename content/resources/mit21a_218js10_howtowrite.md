@@ -6,6 +6,7 @@ file: /courses/21a-218j-identity-and-difference-spring-2010/99c49f39d02bab192952
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21A_218JS10_howtowrite.pdf
 uid: 99c49f39-d02b-ab19-2952-d120dcc5964e
 ---
 This resource contains information related to suggestions to undergraduates writing class papers.
-
