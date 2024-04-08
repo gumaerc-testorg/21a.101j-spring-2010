@@ -20,11 +20,11 @@ Van Evera, Stephen. "How to Write a Paper." ({{% resource_link 99c49f39-d02b-ab1
 
 Cohen, Joshua. "Some Rules of Thumb for Writing Papers." ({{% resource_link bc8ca273-6726-cbe0-3ca1-94b3bc1c0cc0 "PDF" %}}) (Courtesy of Joshua Cohen. Used with permission.)
 
-Cooper, Kim. "[Tips on Grammar, Punctuation, and Style](http://www.fas.harvard.edu/~wricntr/documents/GP.html)." Harvard College Writing Center, 1999.
+Cooper, Kim. "{{% resource_link "484b37e7-1fa9-4f66-921b-5eb8a13c9c36" "Tips on Grammar, Punctuation, and Style" %}}." Harvard College Writing Center, 1999.
 
-Saltz, Laura, et al. "[Revising the Draft](http://www.fas.harvard.edu/~wricntr/documents/Revising.html)." Harvard College Writing Center, 1998.
+Saltz, Laura, et al. "{{% resource_link "83af1e58-e211-4e4f-92e1-d718d9d45569" "Revising the Draft" %}}." Harvard College Writing Center, 1998.
 
-Perelman, Leslie, James Paradis, and Edward Barrett. "[Using Source Language Appropriately](http://www.mhhe.com/mayfieldpub/tsw/source.htm)." Section 10.1 in _The Mayfield Handbook of Technical and Science Writing_. New York, NY: McGraw-Hill, 2001.
+Perelman, Leslie, James Paradis, and Edward Barrett. "{{% resource_link "06fa9937-955f-4c9e-9da0-f4aa5f935f8f" "Using Source Language Appropriately" %}}." Section 10.1 in _The Mayfield Handbook of Technical and Science Writing_. New York, NY: McGraw-Hill, 2001.
 
 Essays
 ------
