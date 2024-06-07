@@ -80,9 +80,9 @@ Davis, Natalie Zemon. "Boundaries and the Sense of Self in Sixteenth-Century Fra
 
 Mead, George Herbert. "The Self, the I, and the Me." In Lemert, Charles. _Social Theory: The Multicultural & Classic Readings_. Boulder, CO: Westview, 2009. ISBN: 9780813343921.
 
-Bentham, Jeremy. "{{% resource_link "0fa2222c-e63d-43cc-a6e3-99136f95d09b" "Of the Principle of Utility" %}}." _The Principles of Morals and Legislation_, 1789.
+Bentham, Jeremy. "[Of the Principle of Utility](http://en.wikisource.org/wiki/An_Introduction_to_the_Principles_of_Morals_and_Legislation/Chapter_I)." _The Principles of Morals and Legislation_, 1789.
 
-Wade, Nicholas. "{{% resource_link "263d4f87-0da3-4d58-bb75-4414fce5b0f0" "Human Culture, an Evolutionary Force" %}}." _New York Times_, March 1, 2010.
+Wade, Nicholas. "[Human Culture, an Evolutionary Force](http://www.nytimes.com/2010/03/02/science/02evo.html)." _New York Times_, March 1, 2010.
 
 
 {{< tdclose >}}
@@ -110,19 +110,19 @@ Pascoe, Peggy. "Miscegenation Law, Court Cases, and Ideologies of 'Race' in 20th
 
 ### Optional
 
-Springen, Karen, and David Noonan. "{{% resource_link "d300dc29-2a38-4b38-ae31-8137d06befa1" "Sperm Banks Go Online" %}}." _Newsweek_, April 21, 2003.
+Springen, Karen, and David Noonan. "[Sperm Banks Go Online](http://www.newsweek.com/2003/04/20/sperm-banks-go-online.html)." _Newsweek_, April 21, 2003.
 
-Fisher, Ian. "{{% resource_link "f2ec13f4-299b-4ed1-a8c0-c69a3935cea5" "Bill Would Govern Use of Dead Men's Sperm" %}}." _New York Times_, March 7, 1998.
+Fisher, Ian. "[Bill Would Govern Use of Dead Men's Sperm](http://www.nytimes.com/1998/03/07/nyregion/bill-would-govern-use-of-dead-men-s-sperm.html)." _New York Times_, March 7, 1998.
 
-Harmon, Amy. "{{% resource_link "efa9a217-1e22-4796-be9e-b43669740297" "First Comes the Baby Carriage" %}}." _New York Times_, October 13, 2005.
+Harmon, Amy. "[First Comes the Baby Carriage](http://www.nytimes.com/2005/10/13/fashion/thursdaystyles/13BANKS.html)." _New York Times_, October 13, 2005.
 
-Alvarez, Lizette. "{{% resource_link "8c34ad66-fec8-476e-98f1-893fe69ff56a" "Spreading Scandinavian Genes, Without Viking Boats" %}}." _New York Times_, September 30, 2004.
+Alvarez, Lizette. "[Spreading Scandinavian Genes, Without Viking Boats](http://www.nytimes.com/2004/09/30/international/europe/30sperm.html)." _New York Times_, September 30, 2004.
 
-Plotz, David. "{{% resource_link "c6c0038c-29b3-49a2-8f25-c8cb706cef66" "Who's Your Daddy?" %}}" _New York Times_, May 19, 2005.
+Plotz, David. "[Who's Your Daddy?](http://www.nytimes.com/2005/05/19/opinion/19plotz.html)" _New York Times_, May 19, 2005.
 
-Simons, Marlise. "{{% resource_link "1697c42c-e21e-4a4b-91f3-a49b5df80f7a" "French Uproar Over Right to Death for Unborn" %}}." _New York Times_, October 19, 2001.
+Simons, Marlise. "[French Uproar Over Right to Death for Unborn](http://www.nytimes.com/2001/10/19/world/french-uproar-over-right-to-death-for-unborn.html)." _New York Times_, October 19, 2001.
 
-Daley, Suzanne. "{{% resource_link "ceea0a3d-585e-42da-bf1a-03c2f16d58e1" "France Bans Damages for 'Wrongful Births'" %}}." _New York Times_, January 10, 2002.
+Daley, Suzanne. "[France Bans Damages for 'Wrongful Births'](http://www.nytimes.com/2002/01/11/international/11FRAN.html)." _New York Times_, January 10, 2002.
 
 
 {{< tdclose >}}
@@ -144,9 +144,9 @@ Bourgois, pp. 1-173.
 
 \[Legacies\] Díaz, Junot. "Fiesta 1980." Originally in Díaz, Junot. _Drown_. New York, NY: Riverhead Books, 1996. ISBN: 9781573220415.
 
-{{% resource_link "c2f40fcb-5d21-498f-9868-cd498defa532" "Ahmad ibn Fadlan" %}}
+[Ahmad ibn Fadlan](http://en.wikipedia.org/wiki/Ahmad_ibn_Fadlan)
 
-"{{% resource_link "323717c4-f5d0-4bf8-bdb3-2702e5daad7d" "Scandinavia and Ibn Fadlan" %}}." _MuslimHeritage.com_, February 2, 2007.
+"[Scandinavia and Ibn Fadlan](https://muslimheritage.com/scandinavia-ibn-fadlan/)." _MuslimHeritage.com_, February 2, 2007.
 
 
 {{< tdclose >}}
@@ -168,9 +168,9 @@ Bourgois, pp. 174-337.
 
 Durkheim, Emile. "The Normal and the Pathological." In Clarke, Edward J., and Delos H. Kelly. _Deviant Behavior_. New York, NY: Worth Publishers, 2008. ISBN: 9781429205184.
 
-LaFraniere, Sharon. "{{% resource_link "e53a7b88-ec97-4178-8ca9-43943fa7e942" "A Miniature World Magnifies Dwarf Life" %}}." _New York Times_, March 3, 2010.
+LaFraniere, Sharon. "[A Miniature World Magnifies Dwarf Life](http://www.nytimes.com/2010/03/04/world/asia/04dwarfs.html)." _New York Times_, March 3, 2010.
 
-Itzkoff, Dave. "'{{% resource_link "95abfc57-1496-4526-8043-579c2e913d62" "Family Guy', Palin, and the Limits of Laughter" %}}." _New York Times_, February 19, 2010.
+Itzkoff, Dave. "'[Family Guy', Palin, and the Limits of Laughter](http://www.nytimes.com/2010/02/20/arts/television/20family.html)." _New York Times_, February 19, 2010.
 
 
 {{< tdclose >}}
@@ -210,9 +210,9 @@ Sexuality
 
 \[RCG\] Takagi, Dana. "Maiden Voyage: Excursion into Sexuality and Identity Politics in Asian America."
 
-Bumiller, Elisabeth. "{{% resource_link "e401bad7-9ec5-4c79-bbe4-d9a7d44298aa" "Repeal of 'Don't Ask, Don't Tell' Policy Filed in Senate" %}}." _New York Times_, March 3, 2010.
+Bumiller, Elisabeth. "[Repeal of 'Don't Ask, Don't Tell' Policy Filed in Senate](http://www.nytimes.com/2010/03/04/us/politics/04military.html)." _New York Times_, March 3, 2010.
 
-Boylan, Jennifer Finney. "{{% resource_link "f6cab061-7267-4d57-b840-8be95f0f44b4" "Is My Marriage Gay?" %}}" _New York Times_, May 11, 2009.
+Boylan, Jennifer Finney. "[Is My Marriage Gay?](http://www.nytimes.com/2009/05/12/opinion/12boylan.html)" _New York Times_, May 11, 2009.
 
 Rudnick, Paul. "Don't Ask Me." _New Yorker_, March 22, 2010.
 
@@ -240,7 +240,7 @@ Lucal, Betsy. "What it Means to be Gendered Me: Life on the Boundaries of a Dich
 
 ### Optional
 
-Kramer, Heinrich, and James Sprenger. "{{% resource_link "4e27b90d-a695-4f14-9c3f-e834325dc31c" "Part I, Question V" %}}," "{{% resource_link "18a7b6f0-9f2a-4dce-a2db-ca6d11ced5ad" "Part I, Question XI" %}}," "{{% resource_link "18a7b6f0-9f2a-4dce-a2db-ca6d11ced5ad" "Part II, Question I, Chapter III" %}}." _The Malleus Maleficarum_, 1486.
+Kramer, Heinrich, and James Sprenger. "[Part I, Question V](http://www.malleusmaleficarum.org/?p=18)," "[Part I, Question XI](http://www.malleusmaleficarum.org/?p=24)," "[Part II, Question I, Chapter III](http://www.malleusmaleficarum.org/?p=24)." _The Malleus Maleficarum_, 1486.
 
 Stolke, Verena. "Invaded Women." In Hendricks, Margo, and Patricia Parker. _Women, "Race" and Writing in the Early Modern Period_. New York, NY: Routledge, 1994. ISBN: 9780415077781.
 
@@ -254,9 +254,9 @@ Kendall, Lori. "'Oh No! I'm a Nerd!': Hegemonic Masculinity on an Online Forum."
 
 Pyke, Karen D., and Denise L. Johnson. "Asian American Women and Racialized Femininities: 'Doing' Gender Across Cultural Worlds." _Gender and Society_ 17 (2003): 33-53.
 
-Glaberson, William. "{{% resource_link "015fed11-7630-4618-8258-0a45cb5afbf7" "For Transgender People, Name is a Message" %}}." _New York Times_, January 24, 2010.
+Glaberson, William. "[For Transgender People, Name is a Message](http://www.nytimes.com/2010/01/25/nyregion/25namechange.html)." _New York Times_, January 24, 2010.
 
-Brown, Patricia Leigh. "{{% resource_link "e77d2752-a23a-4803-aaa5-d6fcb99958b1" "A Quest for a Restroom That's Neither Men's Room Nor Women's Room" %}}." _New York Times_, March 4, 2005.
+Brown, Patricia Leigh. "[A Quest for a Restroom That's Neither Men's Room Nor Women's Room](http://www.nytimes.com/2005/03/04/national/04bathroom.html)." _New York Times_, March 4, 2005.
 
 
 {{< tdclose >}}
@@ -310,7 +310,7 @@ Malamud, Bernard. "The Jewbird." In Cassill, R. V. _The Norton Anthology of Shor
 
 \[RCG\] Takaki, Ronald T. "A Different Mirror." Originally in Takaki, Ronald R. _A Different Mirror: A History of Multicultural America_. Boston, MA: Back Bay Books, 2008. ISBN: 9780316022361.
 
-\[RCG\] Ferber, Abby L. "{{% resource_link "d2c3986c-ebde-4d26-bb93-b0b07981342d" "What White Supremacists Taught a Jewish Scholar About Identity" %}}." Originally in _The Chronicle of Higher Education_, May 7, 1999.
+\[RCG\] Ferber, Abby L. "[What White Supremacists Taught a Jewish Scholar About Identity](http://chronicle.com/article/What-White-Supremacists-Tau/11962/)." Originally in _The Chronicle of Higher Education_, May 7, 1999.
 
 \[RCG\] Cofer, Judith Ortiz. "The Myth of the Latin Woman: I Just Met a Girl Named María."
 
@@ -350,19 +350,19 @@ Smedley, Audrey. "'Race' and the Construction of Human Identity." _American Anth
 
 \[SCRE\] Jefferson, Thomas. "Letter From Thomas Jefferson: Virginia's Definition of a Mulatto."
 
-Du Bois, W. E. B. "The Philadelphia Negro: A Social Study," 1899. "{{% resource_link "1d380d24-6540-4933-8a49-e789b9430e03" "The Souls of Black Folk" %}}," 1903. In Farganis, James. _Readings in Social Theory: The Classic Tradition to Post-Modernism_. New York, NY: McGraw-Hill, 2010. ISBN: 9780078111556.
+Du Bois, W. E. B. "The Philadelphia Negro: A Social Study," 1899. "[The Souls of Black Folk](http://en.wikisource.org/wiki/The_Souls_of_Black_Folk)," 1903. In Farganis, James. _Readings in Social Theory: The Classic Tradition to Post-Modernism_. New York, NY: McGraw-Hill, 2010. ISBN: 9780078111556.
 
 \[Legacies\] Jacobs, Harriet. "Incidents in the Life of a Slave Girl."
 
 ### Optional
 
-Nixon, Ron. "{{% resource_link "d29149c6-0ef6-461a-88e3-db9a410685b6" "DNA Tests Find Branches but Few Roots" %}}." _New York Times_, November 25, 2007.
+Nixon, Ron. "[DNA Tests Find Branches but Few Roots](http://www.nytimes.com/2007/11/25/business/25dna.html?_r=2)." _New York Times_, November 25, 2007.
 
-Potok, Mark, et al. "{{% resource_link "6c039af2-374c-4b63-82a9-ce9bfc7b55a2" "The Geography of Hate" %}}." _New York Times_, November 25, 2007.
+Potok, Mark, et al. "[The Geography of Hate](http://www.nytimes.com/2007/11/25/opinion/25potok.html)." _New York Times_, November 25, 2007.
 
-Saulny, Susan. "{{% resource_link "d48f1d96-39c0-450f-bcdf-5db194b0369c" "With New Homes, Town Makes Amends for Its Bias" %}}." _New York Times_, March 10, 2010.
+Saulny, Susan. "[With New Homes, Town Makes Amends for Its Bias](http://www.nytimes.com/2010/03/11/us/11housing.html)." _New York Times_, March 10, 2010.
 
-Wise, Tim. "{{% resource_link "17d47459-ae6d-44d9-bc1f-628bf3fdb845" "Imagine: Protest, Insurgency, and the Workings of White Privilege" %}}." April 25, 2010.
+Wise, Tim. "[Imagine: Protest, Insurgency, and the Workings of White Privilege](http://www.timwise.org/2010/04/imagine-protest-insurgency-and-the-workings-of-white-privilege/)." April 25, 2010.
 
 
 {{< tdclose >}}
@@ -420,7 +420,7 @@ Cole, Johnnetta Betsch, and Beverly Guy-Sheftall. "Collisions: Black Liberation 
 
 \[RCG\] Williams, Patricia. "Of Race and Risk." (Also in Schaefer, _Racial and Ethnic Groups_.)
 
-"{{% resource_link "a33af53e-d266-4fcf-9dda-dae3b3a84532" "How to Tell Your Friends From the Japs." %}}" _Time_, December 22, 1941.
+"[How to Tell Your Friends From the Japs.](http://www.english.illinois.edu/maps/poets/a_f/foster/lifemag.htm)" _Time_, December 22, 1941.
 
 \[SCRE\] Forbes, Jack D. "'Indian' and 'Black' as Radically Different Types of Categories."
 
@@ -434,7 +434,7 @@ Lei, Joy L. "(Un)necessary Toughness? Those 'Loud Black Girls' and Those Quiet A
 
 \[RCG\] Churchill, Ward. "Crimes Against Humanity."
 
-Harmon, Amy. "{{% resource_link "93c455e3-6cff-487a-a1e3-0e98e9f01887" "Indian Tribe Wins Fight to Limit Research of its DNA" %}}." _New York Times_, April 21, 2010.
+Harmon, Amy. "[Indian Tribe Wins Fight to Limit Research of its DNA](http://www.nytimes.com/2010/04/22/us/22dna.html)." _New York Times_, April 21, 2010.
 
 
 {{< tdclose >}}
