@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to general comments on papers.
-file: /courses/21a-218j-identity-and-difference-spring-2010/f75dd8081341666d4f4e84d4a93f7c05_MIT21A_218JS10_comments.pdf
+file: /ol-ocw-studio-app/courses/21a-218j-identity-and-difference-spring-2010/f75dd8081341666d4f4e84d4a93f7c05_MIT21A_218JS10_comments.pdf
 file_size: 52897
 file_type: application/pdf
 learning_resource_types:
