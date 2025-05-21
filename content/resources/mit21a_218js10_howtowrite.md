@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to suggestions to undergraduates
   writing class papers.
-file: /ol-ocw-studio-app/courses/21a-218j-identity-and-difference-spring-2010/99c49f39d02bab192952d120dcc5964e_MIT21A_218JS10_howtowrite.pdf
+file: /courses/21a-218j-identity-and-difference-spring-2010/99c49f39d02bab192952d120dcc5964e_MIT21A_218JS10_howtowrite.pdf
 file_size: 84281
 file_type: application/pdf
 learning_resource_types:
