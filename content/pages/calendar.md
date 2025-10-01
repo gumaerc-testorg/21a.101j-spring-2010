@@ -32,7 +32,7 @@ KEY DATES
 Introduction to Course
 {{< tdclose >}}
 {{< tdopen >}}
-Viewing: [_American Tongues_](http://www.imdb.com/title/tt0303637/). Louis Alvarez and Andy Kolker. Center for New American Media, 1998.
+Viewing: {{% resource_link "91c03ac2-ec97-49cd-ae85-9c2b2ad7f83c" "_American Tongues_" %}}. Louis Alvarez and Andy Kolker. Center for New American Media, 1998.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ Studying Identity and Difference: Concepts
 Analytic Perspectives: Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-Viewing: [_One in 2000_](http://www.imdb.com/title/tt1139122/). Ajae Clearway. Polyvinyl Pictures, 2007.
+Viewing: {{% resource_link "ed3ce2fb-5f42-48c3-9bca-163d59f18ea1" "_One in 2000_" %}}. Ajae Clearway. Polyvinyl Pictures, 2007.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Sexuality
 
 Final draft of first written assignment due
 
-Viewing: [_Sunflowers_](http://www.imdb.com/title/tt0390519/). J. P. Tepnapa. SkyAngel Films, 2001.
+Viewing: {{% resource_link "cdc07427-5267-4730-bd68-81f141d68d7d" "_Sunflowers_" %}}. J. P. Tepnapa. SkyAngel Films, 2001.
 
 
 {{< tdclose >}}
@@ -126,7 +126,7 @@ Gender
 
 First draft of first written assignment due
 
-Viewing: [_You Don't Know Dick_](http://www.imdb.com/title/tt0118206/). Bestor Cram and Candace Schermerhorn. Northern Light Productions, 1996.
+Viewing: {{% resource_link "51a63d9b-f9b7-4358-82ef-4c9cc93c7724" "_You Don't Know Dick_" %}}. Bestor Cram and Candace Schermerhorn. Northern Light Productions, 1996.
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Religion; Social Class
 
 Second written assignment handed back, with comments
 
-Viewing: [_People Like Us: Social Class in America_](http://www.imdb.com/title/tt0362022/). Louis Alvarez and Andy Kolker. Center for New American Media, 2001.
+Viewing: {{% resource_link "b8fc7766-28ff-414f-987f-13fbca0e1636" "_People Like Us: Social Class in America_" %}}. Louis Alvarez and Andy Kolker. Center for New American Media, 2001.
 
 
 {{< tdclose >}}
@@ -162,7 +162,7 @@ Ethnicity
 
 Final draft of second written assignment due
 
-Viewing: [_Black Indians: An American Story_](http://www.imdb.com/title/tt0344936/). Chip Richie and Daniel Blake Smith. Rich-Heape Films, 2001.
+Viewing: {{% resource_link "170bd655-0ba5-4ddd-9090-c575f168ca3a" "_Black Indians: An American Story_" %}}. Chip Richie and Daniel Blake Smith. Rich-Heape Films, 2001.
 
 Optional first draft of third written assignment due in the next week
 
@@ -182,7 +182,7 @@ Race
 
 Optional first draft of third written assignment handed back, with comments
 
-Viewing: Selections from [_bro' Town_](http://www.imdb.com/title/tt0491515/). The Naked Samoans. Firehorse Films, 2004-2009.
+Viewing: Selections from {{% resource_link "e0180636-8bfe-4972-928d-3d0447e12853" "_bro' Town_" %}}. The Naked Samoans. Firehorse Films, 2004-2009.
 
 
 {{< tdclose >}}
@@ -200,9 +200,9 @@ Race, Gender, Ethnicity I
 
 Final draft of third written assignment due
 
-Viewing: One of [_African American Lives: Listening to Our Past_](http://www.imdb.com/title/tt0344936/). Graham Judd. Kunhardt Productions, 2006.
+Viewing: One of {{% resource_link "170bd655-0ba5-4ddd-9090-c575f168ca3a" "_African American Lives: Listening to Our Past_" %}}. Graham Judd. Kunhardt Productions, 2006.
 
-[_Me Broni Ba (My White Baby)_](http://www.imdb.com/title/tt1443444/). Akosua Adoma Owasu and Adowa Adu-Gyamfi. 2009.
+{{% resource_link "727a6b66-4bf2-4c47-8788-f25cf9b15e4d" "_Me Broni Ba (My White Baby)_" %}}. Akosua Adoma Owasu and Adowa Adu-Gyamfi. 2009.
 
 
 {{< tdclose >}}
@@ -220,7 +220,7 @@ Race, Gender, Ethnicity II
 
 Student presentations
 
-Viewing: [_Miss Navajo_](http://www.imdb.com/title/tt0912591/). Billy Luther. World of Wonder, 2007.
+Viewing: {{% resource_link "c3baa941-ac65-4f0d-adb0-4b2597d8024a" "_Miss Navajo_" %}}. Billy Luther. World of Wonder, 2007.
 
 
 {{< tdclose >}}
